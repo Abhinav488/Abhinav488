@@ -14,6 +14,9 @@
   <a href="https://github.com/Abhinav488?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/Abhinav488?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://leetcode.com/u/AbhinavSachan16/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Abhinav488/Abhinav488/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
