@@ -20,6 +20,9 @@
   <a href="https://open.spotify.com/user/31yvyjndo7qllt3mbwrzmxmoa2p4" target="_blank">
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/abhinavsachan/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Abhinav488/Abhinav488/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
